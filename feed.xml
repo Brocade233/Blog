@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/Brocade233/Blog</id><title>RSS feed of Brocade233's Blog</title><updated>2022-04-25T14:28:29.681400+00:00</updated><author><name>love-tnt</name><email>1794829414@qq.com</email></author><link href="https://github.com/Brocade233/Blog"/><link href="https://raw.githubusercontent.com/Brocade233/Blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/Brocade233/Blog/issues/1</id><title>友情链接</title><updated>2022-04-25T14:28:29.836792+00:00</updated><content type="html"><![CDATA[<p>格式：
+<feed xmlns="http://www.w3.org/2005/Atom"><id>https://github.com/Brocade233/Blog</id><title>RSS feed of Brocade233's Blog</title><updated>2022-04-25T14:34:16.296345+00:00</updated><author><name>love-tnt</name><email>1794829414@qq.com</email></author><link href="https://github.com/Brocade233/Blog"/><link href="https://raw.githubusercontent.com/Brocade233/Blog/master/feed.xml" rel="self"/><generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator><entry><id>https://github.com/Brocade233/Blog/issues/1</id><title>友情链接</title><updated>2022-04-25T14:34:16.477649+00:00</updated><content type="html"><![CDATA[<p>格式：
 名字：xxx
 链接：xxx
 描述：xxx
 在我给予♥后会被添加到readme</p>
-]]></content><link href="https://github.com/Brocade233/Blog/issues/1" rel="alternate"/><published>2022-04-25T13:58:35+00:00</published></entry></feed>
+]]></content><link href="https://github.com/Brocade233/Blog/issues/1" rel="alternate"/><category term="Friends"/><published>2022-04-25T13:58:35+00:00</published></entry></feed>
